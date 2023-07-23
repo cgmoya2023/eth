@@ -6,7 +6,7 @@
     "opcion1": "Ripple (XRP)",
     "opcion2": "Litecoin (LTC)",
     "opcion3": "Ethereum (ETH)",
-    "opcion4": "Stellar (XLM)",
+    "oction4": "Stellar (XLM)",
     "correcta": 3
   },
   {
@@ -16,7 +16,7 @@
     "opcion1": "Decentralized Finance (DeFi)",
     "opcion2": "Proof of Stake (PoS)",
     "opcion3": "Decentralized Autonomous Organization (DAO)",
-    "opcion4": "Ethereum Virtual Machine (EVM)",
+    "oction4": "Ethereum Virtual Machine (EVM)",
     "correcta": 4
   },
   {
@@ -26,7 +26,7 @@
     "opcion1": "Ethereum 2.0",
     "opcion2": "Ethereum 1.5",
     "opcion3": "Ethereum 3.0",
-    "opcion4": "Ethereum X",
+    "oction4": "Ethereum X",
     "correcta": 1
   },
   {
@@ -36,7 +36,7 @@
     "opcion1": "Python",
     "opcion2": "JavaScript",
     "opcion3": "Solidity",
-    "opcion4": "Java",
+    "oction4": "Java",
     "correcta": 3
   },
   {
@@ -46,7 +46,7 @@
     "opcion1": "Cross-Chain Swapping",
     "opcion2": "Tokenization",
     "opcion3": "Smart Contracting",
-    "opcion4": "Atomic Swapping",
+    "oction4": "Atomic Swapping",
     "correcta": 4
   },
   {
@@ -56,7 +56,7 @@
     "opcion1": "Web3.js",
     "opcion2": "DApp.js",
     "opcion3": "Ether.js",
-    "opcion4": "Solidity.js",
+    "oction4": "Solidity.js",
     "correcta": 1
   },
   {
@@ -66,7 +66,7 @@
     "opcion1": "ERC-20",
     "opcion2": "ERC-721",
     "opcion3": "ERC-1155",
-    "opcion4": "ERC-223",
+    "oction4": "ERC-223",
     "correcta": 1
   },
   {
@@ -76,7 +76,7 @@
     "opcion1": "Binance",
     "opcion2": "Coinbase",
     "opcion3": "Uniswap",
-    "opcion4": "Kraken",
+    "oction4": "Kraken",
     "correcta": 3
   },
   {
@@ -86,7 +86,7 @@
     "opcion1": "Staking",
     "opcion2": "Governance",
     "opcion3": "Gas fees",
-    "opcion4": "Voting",
+    "oction4": "Voting",
     "correcta": 3
   },
   {
@@ -96,7 +96,7 @@
     "opcion1": "Vitalik Buterin",
     "opcion2": "Charles Hoskinson",
     "opcion3": "Gavin Wood",
-    "opcion4": "Joseph Lubin",
+    "oction4": "Joseph Lubin",
     "correcta": 1
   }
 ]
